@@ -34,7 +34,7 @@ Here are a few glimpses of the application:
 
 For a comprehensive walkthrough of the application's features and interactivity, watch the GIF below:
 
-![GIF Demo of REM Waste Skip Selector](assets/Rec1.gif)
+![GIF Demo of REM Waste Skip Selector](assets/r.gif)
 
 ## Tech Stack
 
